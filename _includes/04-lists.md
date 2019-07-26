@@ -1,8 +1,8 @@
 These are a few of my favorite X-Men
 * Cyclops
-* Wolverine
+  * Wolverine
 * Gambit
-* Rogue
+  * Rogue
 * Cable (old)
 * Bishop
 * Psylocke
